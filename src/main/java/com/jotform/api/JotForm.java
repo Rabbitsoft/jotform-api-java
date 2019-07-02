@@ -40,7 +40,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class JotForm {
-  public static String EU_BASE_URL = "https://api.jotform.com/";
+  public static String EU_BASE_URL = "https://eu-api.jotform.com/";
   public static String BASE_URL = "https://api.jotform.com/";
   
   private static String version = "v1";
